@@ -66,7 +66,7 @@ exports.HANDLERS_ADDRESSES = {
         ["bombswap"]: "0x87C4Fbd67f6DD8a1B5EFD9879956c728C97afeFe",
         ["defyswap"]: "0x3d401587320522a5e0bb973d10a852430a8edbbd",
         ["tombswap"]: "0xc72ef1bae14d0be7ec28c149e5e24659115f7c90",
-        ["skullswap"]: "0xc72ef1bae14d0be7ec28c149e5e24659115f7c90",
+        ["skullswap"]: "0xe7426fb4bdf06c5a4680b047eb9ca4fa3b513e25",
         ["protofi"]: "0xfd2c20e265c130dc01d5cacc3012d3205e49c8b5",
         ["spiritswap_stoplimit"]: "0x6ea82c72732389c5149326e048a46be9f8bec8e8",
         ["spookyswap_stoplimit"]: "0xe912cd26c4a4cfffc175a297f1328ab23313a1a7",
